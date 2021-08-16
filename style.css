@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+#video{
+    margin-top: 40px;
+}
+
+.my_Nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+.marqueestyle{
+    background color: aqua;
+}
+.travel-mainDiv img{
+    width:100%;
+    text-align: center;
+}
+#school_achievment2{
+    width: 50%;
+}
+#school_achievment1{
+    width: 50%;
+}
+.bg-primary movie_head{
+    width: 300px;
+}
